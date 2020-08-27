@@ -1,1 +1,3 @@
-# rightfax-access-setup
+- Clinic manager starts by selecting their name. If not found, select previous managers name. Check box for 'I am new manager'
+- Then clinic info (address, name, etc) will load and user has to confirm. If info needs updating, check box.
+- (list of managers and clinics in separate file or database)
